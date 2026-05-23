@@ -234,6 +234,8 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 
 ### Core theory
 
+⚠️ Note: instead of doing these two courses I bought a hardcover physical copy of [The Algorithm Design Manual](https://www.amazon.com/-/es/Algorithm-Design-Manual-Steve-Skiena/dp/1848000693) which as of May 2026, I'm going through and will be uploading progress to the [core theory](https://github.com/lezojeda/ossu-core-theory) repo.
+
 **Topics covered**:
 `divide and conquer`
 `sorting and searching`
@@ -249,10 +251,8 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 
 Courses | Duration | Effort | Prerequisites | Discussion | Done
 :-- | :--: | :--: | :--: | :--: | :--:
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | 4 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY) | -
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | 4 weeks | 4-8 hours/week | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [chat](https://discord.gg/Qstqe4t) | -
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | 4 weeks | 4-8 hours/week | Graph Search, Shortest Paths, and Data Structures | [chat](https://discord.gg/dWVvjuz) | -
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | 4 weeks | 4-8 hours/week | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [chat](https://discord.gg/dYuY78u) | -
+[Algorithms: Design and Analysis, Part 1](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-1) ([alternative](https://www.algorithmsilluminated.org/)) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science | [chat](https://discord.gg/mKRS7tY) | 🚧
+[Algorithms: Design and Analysis, Part 2](https://www.edx.org/learn/algorithms/stanford-university-algorithms-design-and-analysis-part-2) | 8 weeks | 4-8 hours/week | Algorithms Part 1 | [chat](https://discord.gg/Qstqe4t) | 🚧
 
 ### Core security
 **Topics covered**
